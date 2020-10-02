@@ -1,5 +1,14 @@
 ### Hi there 👋
 I’m a Mathematics & ML,DL Masters of 2005 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+
+### Things I'm good at :fire:
+**Languages:**  Python, HTML, CSS, JavaScript.
+
+**Framework:** Flask, Django.
+
+**Libraries & Tools:** Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK.
+
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
 <!--
 **KhurramArshad/KhurramArshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
