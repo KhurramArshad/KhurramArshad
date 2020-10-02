@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a Mathematics & ML,DL Masters of 2005 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I’m a Mathematics Masters of 2005 batch & and done ML,DL Masters. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
 ### Things I'm good at :fire:
 **Languages:**  Python, HTML, CSS, JavaScript.
