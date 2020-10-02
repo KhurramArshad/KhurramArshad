@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m a Mathematics & ML,DL Masters of 2005 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 <!--
 **KhurramArshad/KhurramArshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
