@@ -8,7 +8,7 @@ I’m a Mathematics Masters of 2005 batch & and done ML,DL Masters. I come with 
 
 **Libraries & Tools:** Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
+**Data Analysis:** Web Scraping, Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
 
 ### How to reach me 📱
 Known on internet as [**KhurramArshad**](https://www.google.com/search?q=prof.+khurram+arshad&source=lmns&bih=625&biw=1366&rlz=1C1CHBD_enPK857PK857&hl=en&sa=X&ved=2ahUKEwjms5SVg5fsAhXR_IUKHQ-SCDcQ_AUoAHoECAEQAA)
